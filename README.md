@@ -8,4 +8,7 @@
 
 ***
 > make it happen
-[![show my image](https://drive.google.com/file/d/1fJtEpo82ZDKOeLOHrihuJclfp7lhCb60/view?usp=drive_link)](https://youtu.be/G-EGDH50hGE?si=dHhvaT_YbgRTSh-Y)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+first+line+of+code:second+line+of+code)](https://git.io/typing-svg)
+
+
